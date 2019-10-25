@@ -1,0 +1,213 @@
+0 /store/apps/details?id=com.kurashiru
+クラシル - 料理をレシピ動画で簡単に
+
+1 /store/apps/details?id=jp.co.gnavi.activity
+ぐるなび　グルメアプリ～お店探しや飲食店検索に～
+
+2 /store/apps/details?id=tv.every.delishkitchen
+DELISH KITCHEN - 無料レシピ動画で料理を楽しく・簡単に
+
+3 /store/apps/details?id=jp.co.kura_corpo
+くら寿司予約アプリProduced by EPARK
+
+4 /store/apps/details?id=com.ajnsnewmedia.kitchenstories
+Kitchen Stories - おいしい料理の無料レシピ動画＆クックブック‏
+
+5 /store/apps/details?id=jp.co.mcdonalds.android
+マクドナルド - McDonald's Japan
+
+6 /store/apps/details?id=com.kakaku.tabelog
+食べログ お店探し・予約アプリ - ランキングとグルメな人の口コミから飲食店検索
+
+7 /store/apps/details?id=jp.co.recruit.mtl.android.hotpepper
+人気の飲食店予約とお得なクーポン検索 ホットペッパーグルメ
+
+8 /store/apps/details?id=jp.co.daiichisankyo.eshokuzai
+e食材辞典 for Android
+
+9 /store/apps/details?id=com.appcapsule.atom
+ステーキ宮｜安心安全なステーキと手作りハンバーグのレストラン
+
+10 /store/apps/details?id=jp.co.skylark.app.gusto
+すかいらーくアプリ
+
+11 /store/apps/details?id=jp.co.zensho.bigboyjapan
+ビッグボーイ ～ ハンバーグ・ステーキのファミリーレストラン ～
+
+12 /store/apps/details?id=jp.co.doutor.dvc
+ドトール バリューカード（DVC）アプリ
+
+13 /store/apps/details?id=com.cookpad.android.activities
+クックパッド - 無料レシピ検索で料理・献立作りを楽しく！
+
+14 /store/apps/details?id=com.ubercab.eats
+Uber Eats: 地元で人気の料理をお届け
+
+15 /store/apps/details?id=jp.digitallab.kaitensushitaisei
+回転寿司たいせい公式アプリ
+
+16 /store/apps/details?id=me.retty
+Retty-グルメな人の口コミから、人気のお店を無料検索
+
+17 /store/apps/details?id=jp.tokyomixcurry
+TOKYO MIX CURRY
+
+18 /store/apps/details?id=jp.cocoweb
+ココウェブ　～ココス公式アプリ～
+
+19 /store/apps/details?id=jp.krispykreme.app
+クリスピー・クリーム for APP
+
+20 /store/apps/details?id=co.tapgo.user
+menu（メニュー）- 選んで楽しいテイクアウトアプリ
+
+21 /store/apps/details?id=jp.digitallab.fbssapporo
+弟子屈ラーメン　公式アプリ
+
+22 /store/apps/details?id=ly.tabe.app
+タベリー | 「献立を考える、食材を買う」を1分で
+
+23 /store/apps/details?id=jp.co.kookoo
+ステーキ・ハンバーグ・牛カツのタケル公式アプリ
+
+24 /store/apps/details?id=jp.co.cookbiz.foodion
+Foodion 料理人・シェフとつながる食のSNS
+
+25 /store/apps/details?id=jp.nikufes.Nikufes
+肉フェス
+
+26 /store/apps/details?id=com.demaecan.androidapp
+出前館
+
+27 /store/apps/details?id=com.hanamaruudon.official
+はなまるうどん　公式アプリ
+
+28 /store/apps/details?id=com.heart_bread.app
+ハートブレッドアンティーク  公式アプリ
+
+29 /store/apps/details?id=net.h4129
+ひがしやま公式アプリ
+
+30 /store/apps/details?id=com.olivesystem.rarmen_map
+全国ラーメンマップ
+
+31 /store/apps/details?id=jp.co.freshnessburger.app.freshness
+フレッシュネスバーガー公式アプリ
+
+32 /store/apps/details?id=li.yapp.app26FF4BEC
+土井善晴の和食 - 旬の献立や季節のレシピ・家庭料理を動画で紹介するレシピ・ 料理アプリ-
+
+33 /store/apps/details?id=vivino.web.app
+Vivino
+
+34 /store/apps/details?id=jp.co.sharp.android.cocoroapp.kitchen
+おすすめ料理レシピが毎日届く！ COCORO KITCHEN
+
+35 /store/apps/details?id=tomatoonion.jp.co.tomato_a
+トマトアンドオニオン公式アプリ
+
+36 /store/apps/details?id=jp.finedine.android.ec
+fineDine
+
+37 /store/apps/details?id=jp.kamatora.android.ec
+宅配御膳『釜寅』
+
+38 /store/apps/details?id=jp.ufs.ueshimacoffeeten
+上島珈琲店公式アプリ
+
+39 /store/apps/details?id=com.buzzfeed.tasty
+Tasty
+
+40 /store/apps/details?id=jp.co.allabout.cafesnap
+カフェアプリ「CafeSnap」写真からこだわりカフェ探し
+
+41 /store/apps/details?id=jp.napolipizza.android
+ナポリの窯 - 公式アプリ
+
+42 /store/apps/details?id=li.yapp.app610DFF23
+【プ活】プロント公式アプリ
+
+43 /store/apps/details?id=com.oisix.oisixAndroid
+Oisix - 定期宅配おいしっくすくらぶアプリ
+
+44 /store/apps/details?id=jp.appsta.bariuma2003
+ばり馬
+
+45 /store/apps/details?id=jp.nosh.nosh
+nosh / ナッシュ
+
+46 /store/apps/details?id=jp.co.kirin.mykirinplus
+My KIRIN Plus
+
+47 /store/apps/details?id=jp.co.zensho.jollypasta
+ジョリーパスタ-JollyPasta-お得なクーポンアプリ
+
+48 /store/apps/details?id=com.appcapsule.tsukadanojo
+塚田農場公式アプリ
+
+49 /store/apps/details?id=net.physalis.sakeapp
+さけのわ
+
+50 /store/apps/details?id=com.appcapsule.gift
+家系ラーメン公式「完まく」アプリ
+
+51 /store/apps/details?id=com.joelapenna.foursquared
+Foursquare
+
+52 /store/apps/details?id=jp.co.rakuten.recipe
+楽天レシピ 人気料理と簡単献立 いつでも無料レシピ検索
+
+53 /store/apps/details?id=jp.co.acurepass
+acure pass - エキナカ自販機アプリ
+
+54 /store/apps/details?id=sagami.sun_denshi.co.jp.sagami_android
+サガミアプリ　お得なクーポンが使える無料アプリ
+
+55 /store/apps/details?id=com.appcapsule.ac5200759001
+屋台屋 博多劇場 【公式アプリ】
+
+56 /store/apps/details?id=li.yapp.app99F7435E
+たのしいお酒.jp  ニュース・雑学・飲み方・レシピ・お得
+
+57 /store/apps/details?id=jp.appsta.gyozayaryu
+餃子家 龍
+
+58 /store/apps/details?id=jp.co.amiyakitei
+あみやき亭公式アプリ
+
+59 /store/apps/details?id=com.opentable
+OpenTable Japan - レストラン予約 - 日本
+
+60 /store/apps/details?id=jp.mellow.schedule
+TLUNCH＜トランチ＞　青空シェフごはん
+
+61 /store/apps/details?id=com.autoreservenative
+AutoReserve - AIが予約代行するグルメアプリ
+
+62 /store/apps/details?id=com.tenpoapp2.chain.tac01141
+高倉町珈琲
+
+63 /store/apps/details?id=jp.co.unerry.BBCouponAppJoyfull
+ジョイフルアプリ
+
+64 /store/apps/details?id=jp.ginsara.android.ec
+宅配寿司 銀のさら
+
+65 /store/apps/details?id=me.vinica.android
+ラベルを撮るだけ簡単記録 - 無料ワインアプリVinica
+
+66 /store/apps/details?id=com.amazon.ihm.richard
+Amazon Go
+
+67 /store/apps/details?id=jp.co.marinonet.app.marino
+マリノ公式アプリ
+
+68 /store/apps/details?id=jp.co.rakuten.delivery
+楽天デリバリー 楽天の出前・宅配注文アプリ
+
+69 /store/apps/details?id=com.misepuri.OE1600075
+どんどん亭公式アプリ
+
+70 /store/apps/details?id=com.cookpad.android.cookpad_tv
+cookpadLive -クッキングLiveアプリ-
+
