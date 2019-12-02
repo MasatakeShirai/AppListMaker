@@ -11,14 +11,17 @@ import time
 # chromeOptions = webdriver.ChromeOptions()
 # chromeOptions.add_argument('user-data-dir='+'')
 # driver = webdriver.Chrome('./chromedriver',options=chromeOptions)
-driver = webdriver.Chrome('./chromedriver')
+# driver = webdriver.Chrome('./chromedriver')
 # driver.get('https://www.google.com')
 # urlList=['https://play.google.com/store/apps/details?id=com.pekobbrowser.unblocksites','https://play.google.com/store/apps/details?id=arun.com.chromer','https://play.google.com/store/apps/details?id=fast.secure.light.browser']
+driver=None
+chromedriverPath=None
 mailAddress=None
 password=None
 addressFilePath=None
 start=None
 end=None
+
 
 
 
@@ -114,7 +117,7 @@ def OpenPlayStore():
     driver.find_element_by_xpath('/html/body/div[1]/div[4]/c-wiz/div/div[2]/div/div[1]/div/c-wiz[1]/c-wiz[1]/div/div[2]/div/div[2]/div/div[2]/div/c-wiz/c-wiz/div/span/button').click()
 
 def ShowHelp():
-    print('-m [str]\n\tメールアドレス指定(必須だが、-fを指定しているなら省略可)\n-p [str]\n\tパスワード指定(必須だが、-fを指定しているなら省略可)\n-f [str]\n\tメールアドレスとパスワードをファイルから指定(-mと-pを指定しているなら省略可)\n\tファイルの形式は1行目にメールアドレス、2行目にパスワード\n-s [int]\n\tandroid_appListにおけるスタートindex指定\n-e [int]\n\tandroid_appListにおけるエンドindex指定')
+    print('-m [str]\n\tメールアドレス指定(必須だが、-fを指定しているなら省略可)\n-p [str]\n\tパスワード指定(必須だが、-fを指定しているなら省略可)\n-f [str]\n\tメールアドレスとパスワードをファイルから指定(-mと-pを指定しているなら省略可)\n\tファイルの形式は1行目にメールアドレス、2行目にパスワード\n-s [int]\n\tandroid_appListにおけるスタートindex指定（必須）\n-e [int]\n\tandroid_appListにおけるエンドindex指定（必須）\n-c [str]\n\tchromedriverへのパスを指定（必須）')
 
 if __name__=='__main__':
     if len(sys.argv)>=2:
@@ -144,14 +147,19 @@ if __name__=='__main__':
                 if len(sys.argv)>=i+2:
                     temp=sys.argv[i+1]
                     end=int(temp)
+            elif sys.argv[i]=='-c':
+                if len(sys.argv)>=i+2:
+                    temp=sys.argv[i+1]
+                    chromedriverPath=temp
         print('len '+str(len(sys.argv)))
     else:
         ShowHelp()
-    if mailAddress != None and password != None and start != None and end != None:
+    if mailAddress != None and password != None and start != None and end != None and chromedriverPath != None:
         # print(mailAddress)
         # print(password)
         # print(str(start))
         # print(str(end))
+        driver = webdriver.Chrome(chromedriverPath)
         ReadAndExcute(mailAddress,password,start,end)
     else:
         ShowHelp()
